@@ -1,0 +1,7 @@
+apiVersion: v1
+appVersion: "1.0"
+description: >
+    A Helm chart of demonstrate authenticating and authoring
+    a web site via Dingtalk on Kubernetes
+name: hands-on-dingtalk-oauth2-proxy
+version: 0.1.0
